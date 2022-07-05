@@ -1,0 +1,3 @@
+return {
+        load = require('Client')
+}
